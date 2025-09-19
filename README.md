@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Caue Assmann Silva 👋
 
-<!--
-**assmannsilva/assmannsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**  
+Passionate about building robust web solutions with PHP, Vue.js, and Laravel.
 
-Here are some ideas to get you started:
+- 🌱 Always learning new technologies and best practices
+- 💻 Focused on backend and frontend development for scalable applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, Typescript
+- **Frameworks:** Laravel, Vue.js
+
+## 🚀 Projects
+
+### Teach Smith Platform
+- [teach-smith-api](https://github.com/assmannsilva/teach-smith-api): Backend API for the Teach Smith platform, built in PHP.
+- [teach-smith-front](https://github.com/assmannsilva/teach-smith-front): Frontend client for Teach Smith, created with Vue.js.
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-assmann-silva/)
+
+---
